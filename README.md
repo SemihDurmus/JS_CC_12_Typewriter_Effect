@@ -7,7 +7,7 @@
     <a  href="https://github.com/SemihDurmus/JS_CC_12_Typewriter_Effect.git">
       Project Source
     </a> |
-    <a  href="https://semihdurmus.github.io/JS_CC_06_Roman_Arabic_Number_Conversion/">
+    <a  href="https://semihdurmus.github.io/JS_CC_12_Typewriter_Effect/">
       Live Demo
     </a>
  
