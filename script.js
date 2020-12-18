@@ -31,6 +31,10 @@ function typeWriter() {
   if (i < msg.length) {
     output.innerHTML += msg.charAt(i);
     i++;
-    setTimeout(typeWriter, speed);
+    if (msg.charAt(i) !== "\n") setTimeout(typeWriter, speed);
+    else {
+      setTimeout(typeWriter, speed + 1);
+      output.innerHTML += "<br/>";
+    }
   }
 }

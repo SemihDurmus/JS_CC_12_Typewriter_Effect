@@ -75,9 +75,9 @@ button:active {
   box-shadow: none;
 }
 
-p {
+#output {
   box-sizing: border-box;
-  width: 50vw;
+  width: 100%;
   line-height: 36px;
   padding: 20px;
   text-align: center;
