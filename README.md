@@ -1,10 +1,10 @@
 
-<h1 align="center">JS_CC_06 Roman-Arabic Number Conversion</h1>
+<h1 align="center">JS_CC_12 Typewriter Effect</h1>
 
 
 <div align="center">
   <h3>
-    <a  href="https://github.com/SemihDurmus/JS_CC_06_Roman_Arabic_Number_Conversion.git">
+    <a  href="https://github.com/SemihDurmus/JS_CC_12_Typewriter_Effect.git">
       Project Source
     </a> |
     <a  href="https://semihdurmus.github.io/JS_CC_06_Roman_Arabic_Number_Conversion/">
