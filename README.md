@@ -18,16 +18,11 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
-
-## Overview
-
-<img src="roman.png" width="800">
 
 ### Built With
 
@@ -38,16 +33,10 @@
 
 ## Features
 
-- User can convert both romans to arabic numbers and the arabic to roman.
-- The highest roman number is 3999. Therefore user should be restricted to enter higher than this number.
-- Here are some example conversions
-```
-1000=M 900=CM 90=XC
-
-2008 is written as MMVIII:
-
-2000=MM 8=VIII
-```
+- User can state the waiting time in milliseconds in th input. 
+- This indicates the waiting time between the characters of the string to show up in the screen. Smaller waiting times makes the text display faster.
+- One tip is that JS can not add new lines. Solution is that we can add `<br/>` to `.innerHTML`. We can check it by adding an if state to see if the current character is `\n`
+- It's also wise to add a longer time at the end of the lines.
 
 ## Contact
 
